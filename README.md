@@ -4,7 +4,7 @@ This is an HD texture project for [The Legend of Zelda: Four Swords Adventures](
 
 Watch trailer here: https://youtu.be/LJ5dvlrhJWc.
 
-Latest stable version download: [![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/v1993/fsa-hd/latest/fsahd.zip)](https://github.com/v1993/fsa-hd/releases/download/latest/fsahd.zip)
+Latest stable version download: [![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/v1993/fsa-hd/latest/G4SP01.7z)](https://github.com/v1993/fsa-hd/releases/download/latest/G4SP01.7z)
 
 Features:
 
